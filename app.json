@@ -3,7 +3,7 @@
   "description": "A visual tool for wiring the Internet of Things, for Heroku deployment.",
   "keywords": [ "Node-RED", "IoT", "Internet of Things", "node.js", "Node", "NodeRED", "Nodejs", "Blynk", "Blynk Cloud" ],
   "website": "http://nodered.org/",
-  "repository": "https://github.com/Sevenmojoe/nodered-heroku.git",
+  "repository": "https://github.com/SS-171/nodered-heroku.git",
   "logo": "http://nodered.org/node-red.png",
   "success_url": "/editor",
   "env": {
