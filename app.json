@@ -5,7 +5,7 @@
   "website": "http://nodered.org/",
   "repository": "https://github.com/SS-171/nodered-heroku.git",
   "logo": "http://nodered.org/node-red.png",
-  "success_url": "/editor",
+  "success_url": "/ui",
   "env": {
   "NODE_RED_a_USERNAME": {
       "description": "Set Username for Flow Editor.",
