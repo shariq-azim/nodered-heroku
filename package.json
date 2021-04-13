@@ -2,7 +2,6 @@
     "name": "node-red-project",
     "description": "A Node-RED Project",
     "version": "0.0.1",
-    "private": true,
     "dependencies": {
         "node-red-contrib-alarm": "~1.2.5",
         "node-red-contrib-component-dashboard": "0.0.4",
